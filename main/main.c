@@ -5,7 +5,7 @@
 void app_main(void)
 {
     while (true) {
-        printf("Hello from app_main!\n");
+        printf("Hello from app_main!\nsdfasdfasdfasdf");
         sleep(1);
     }
 }
