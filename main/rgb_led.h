@@ -40,7 +40,7 @@ void rgb_led_wifi_app_started(void);
 void rgb_led_http_server_started(void);
 
 /**
- * color to indicate that esp32 is connected to an access point.
+ * Color to indicate that esp32 is connected to an access point.
  */
 void rgb_led_wifi_connected(void);
 #endif /* MAIN_RGB_LED_H_ */
